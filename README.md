@@ -21,8 +21,8 @@
   <img align="center" alt="Lore-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lore-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-### Connect with me:
+ 
+## Connect with me:
 
  <div>
 <p align="left" style="background:yellow">
