@@ -1,6 +1,6 @@
 ## Hi there, I'm Lore! 🌎 👋
 
-# Hi, I'm Lorena Holanda, but you can call me Lore. I'm a Front-end Developer from Brazil 💚 and currently working as freelance web developer!!
+### Hi, I'm Lorena Holanda, but you can call me Lore. I'm a Front-end Developer from Brazil 💚 and currently working as freelance web developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -27,6 +27,5 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 <br />
 <br />
