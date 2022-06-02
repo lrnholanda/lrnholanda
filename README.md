@@ -5,9 +5,8 @@
  and currently working as freelance web developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking to collaborate with others developers
 - 🥅 2022 Goals: Learn more about React
-- ⚡ Fun fact: I love to draw and 🐱 ❤ 🏳‍🌈
 <br>
 <div align="center">
   <a href="https://github.com/lrnholanda">
