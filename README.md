@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others developers
-- 🥅 2022 Goals: Learn more about React
 <br>
 <div align="center">
   <a href="https://github.com/lrnholanda">
