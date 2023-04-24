@@ -1,4 +1,4 @@
-
+![](https://tenor.com/pt-PT/view/laptop-gif-26065234)
 <p align="center">
     <a href="https://twitter.com/lrnhola">
     <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
