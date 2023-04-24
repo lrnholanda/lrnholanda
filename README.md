@@ -17,7 +17,6 @@
 * Lorena Holanda, 26 years
 * Full Stack programmer
 * Currently studying Java Spring
-* %{myexperience}
 
 ## **💬 My skills:**
 <details>
@@ -105,10 +104,6 @@
 
 **Discord**: lore#2011
 
-## 🐱‍💻 **Follower of the day**
-*Showcases a random GitHub follower here*
-
-%{randomFollower}
 <hr>
 
 <p align="center">
