@@ -84,11 +84,6 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## **🚀 My recent works:**
-*This section is updated via Javascript.*
-
-%{recentworks}
-
 
 ## **🌠You can find me on:**
 *Click on the image to be redirected*
