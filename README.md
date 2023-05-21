@@ -14,7 +14,7 @@
 </p>
 
 ## **🐉 About me:**
-* Lorena Holanda, 26 years
+* Lorena Holanda
 * Full Stack programmer
 * Currently studying Java Spring
 
